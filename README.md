@@ -4,7 +4,7 @@ This is a simple image slider application created using HTML, CSS, and JavaScrip
 
 ## Demo
 
-![Project SS](./Img-Slider/SS.png)
+![Project SS](./ImageSlider/SS.png)
 
 ## Features
 
